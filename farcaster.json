@@ -1,0 +1,16 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEsInR5cGUiOiJjdXN0b2R5IiwiaGFzaCI6IjB4MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCJ9",
+    "payload": "eyJkb21haW4iOiJ5b3VyLWFwcC52ZXJjZWwuYXBwIn0",
+    "signature": "REPLACE_WITH_YOUR_SIGNATURE"
+  },
+  "frame": {
+    "version": "1",
+    "name": "CryptoMind AI",
+    "iconUrl": "https://your-app.vercel.app/icon.png",
+    "homeUrl": "https://your-app.vercel.app",
+    "splashImageUrl": "https://your-app.vercel.app/splash.png",
+    "splashBackgroundColor": "#07080f",
+    "webhookUrl": "https://your-app.vercel.app/api/webhook"
+  }
+}
